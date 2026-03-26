@@ -3,8 +3,12 @@
 Hi, I'm Nikhil 🚀
 
 💻 Passionate about coding & problem solving
-📚 Currently learning DSA, DBMS, Mathematics for AI/ML, and backend fundamentals (Java)
+
+📚 Currently in semester 2 learning DSA, DBMS, Mathematics for AI/ML, JavaScript and backend fundamentals (Java)
+
 🎯 Focused on becoming a strong backend developer
+
+🎬 Exploring video editing and creative storytelling alongside coding
 
 ---
 
