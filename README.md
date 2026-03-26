@@ -3,7 +3,9 @@
 Hi, I'm Nikhil 🚀
 
 💻 Passionate about coding & problem solving
+
 📚 Currently learning DSA, DBMS, Mathematics for AI/ML, and backend fundamentals (Java)
+
 🎯 Focused on becoming a strong backend developer
 
 ---
