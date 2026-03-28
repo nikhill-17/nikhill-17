@@ -1,3 +1,13 @@
+<h1 align="center">Hi there! I'm Nikhil 🚀</h1>
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=nikhill-17&color=blue&style=flat-square)
+![Followers](https://img.shields.io/github/followers/nikhill-17?label=Followers&style=flat-square)
+![Total Stars](https://img.shields.io/github/stars/nikhill-17?label=Total%20Stars&style=flat-square)
+
+</div>
+
 # 💫 About Me:
 
 Hi, I'm Nikhil 🚀
@@ -50,7 +60,6 @@ Hi, I'm Nikhil 🚀
 
 # 📊 GitHub Stats:
 
-![Profile Views](https://komarev.com/ghpvc/?username=nikhill-17&color=blueviolet&style=plastic)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhill-17&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikhill-17&theme=github_dark)
 
