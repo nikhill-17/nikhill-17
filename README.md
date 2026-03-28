@@ -50,11 +50,9 @@ Hi, I'm Nikhil 🚀
 
 # 📊 GitHub Stats:
 
-# 📊 GitHub Stats:
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhill-17&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikhill-17&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikhill-17&theme=github_dark)
+![Profile Views](https://komarev.com/ghpvc/?username=nikhill-17&color=blueviolet&style=plastic)
 
 ---
 
