@@ -50,9 +50,11 @@ Hi, I'm Nikhil 🚀
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=nikhill-17\&theme=merko\&hide_border=false\&include_all_commits=false\&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nikhill-17\&theme=merko\&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhill-17\&theme=merko\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
+# 📊 GitHub Stats:
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhill-17&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikhill-17&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikhill-17&theme=github_dark)
 
 ---
 
